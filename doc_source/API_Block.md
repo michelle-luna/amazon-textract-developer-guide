@@ -26,7 +26,7 @@ Valid Values:` KEY_VALUE_SET | PAGE | LINE | WORD | TABLE | CELL | SELECTION_ELE
 Required: No
 
  **ColumnIndex**   <a name="Textract-Type-Block-ColumnIndex"></a>
-The column in which a table cell appears\. The first column position is 1\. `ColumnIndex` isn't returned by `DetectDocumentText` and `GetDocumentTextDetection`\.  
+The column in which a table cell appears\. The first column position is 1\. `ColumnIndex` is not returned by `DetectDocumentText` and `GetDocumentTextDetection`\.  
 Type: Integer  
 Valid Range: Minimum value of 0\.  
 Required: No
